@@ -1,0 +1,10 @@
+{
+  "name": "config",
+  "version": "0.1.0",
+  "private": true,
+  "author": "SPACELAN",
+  "dependencies": {
+    "lodash": "latest",
+    "glob": "~4.0.5"
+  }
+}
